@@ -17,6 +17,63 @@ def game_hash
         :blocks => 7,
         :slam_dunks => 2
         ]
+        [:player_name => 
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
+        ]
+        [:player_name => 
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
+        ]
+        [:player_name => 
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
+        ]
+        [:player_name => 
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
+        ]
+      }
+      
+  },
+    :away => {
+      :team_name => "Charlotte Hornets"
+      :colors => ["Turquoise", "Purple"],
+      :players => {
+        [:player_name => "Jeff Adrien"
+        :number => "4",
+        :shoe => "18",
+        :points => 10,
+        :rebounds => 1,
+        :assists => 1,
+        :steals => 2,
+        :blocks => 7,
+        :slam_dunks => 2
+        ]
         [:player_name => "Bismack Biyombo"
         :number => "0",
         :shoe => "16",
@@ -48,63 +105,6 @@ def game_hash
         :slam_dunks => 0
         ]
         [:player_name => "Kemba Walker"
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-        ]
-      }
-      
-  },
-    :away => {
-      :team_name => "Charlotte Hornets"
-      :colors => ["Turquoise", "Purple"],
-      :players => {
-        [:player_name => 
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-        ]
-        [:player_name => 
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-        ]
-        [:player_name => 
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-        ]
-        [:player_name => 
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-        ]
-        [:player_name => 
         :number =>
         :shoe =>
         :points =>
