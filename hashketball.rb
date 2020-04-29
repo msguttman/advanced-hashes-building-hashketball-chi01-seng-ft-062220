@@ -15,6 +15,6 @@ def game_hash
   
   }
   
-game_hash
+p game_hash
 
 end
